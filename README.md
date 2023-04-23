@@ -21,6 +21,10 @@
 
 
   - [How to run the application 💻](#how-to-run-the-application-locally)
+<<<<<<< HEAD
+=======
+  - [How to run the tests ](#how-to-run-tests)
+>>>>>>> 89afda205accb160686bba0fd7e7820ef41885b3
 ----- 
 
 ## Objective
@@ -69,7 +73,11 @@ React has been used widely in the project to build the frontend. The form styles
 
 1. Clone the repo to get all the source code on your machine
 
+<<<<<<< HEAD
 2. Within the cyberdive-startrek-app2/admin-react-app/ folder, go to your terminal and run
+=======
+2. Within the cyberdive-startrek-app2/my-amplify-project/  folder, go to your terminal and run
+>>>>>>> 89afda205accb160686bba0fd7e7820ef41885b3
 
                   npm install
         
@@ -84,3 +92,12 @@ Alternatively,
 In case the ports specified in the `package.json` are already taken, you will have to say yes to the prompt for running it on a different port. You can continue running it on a different port by typing yes.
 
 5. Access application through the port you just opened!
+<<<<<<< HEAD
+=======
+
+## How to run tests
+
+Backend testing for the API has been setup, frontend testing has been done through extensive validation checks on the frontend. In order to run the tests, go to your terminal and run the following command
+
+                  npm run test
+>>>>>>> 89afda205accb160686bba0fd7e7820ef41885b3
