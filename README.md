@@ -4,7 +4,7 @@
 
 ----- 
 
-> Head Over to the my-amplify-project branch and begin cloning!
+> Head Over to the amplify-project branch and begin cloning!
 
 
 ----- 
