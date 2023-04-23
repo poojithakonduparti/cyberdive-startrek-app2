@@ -36,40 +36,47 @@
     transform: rotate(360deg);
   }
 }
+/* Set background color of the body */
 body {
-  background-color: rgb(174, 219, 238);
-}
-.EmployeeInfo {
+  background-color: #e5eaf5;
+  }
+  
+  /* Styling for the EmployeeInfo component */
+  .EmployeeInfo {
   max-width: 500px;
   margin: 40px auto 0;
   padding: 20px;
   background-color: #f4f4f4;
   border-radius: 5px;
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
-}
-
-.EmployeeInfo label {
+  }
+  
+  /* Styling for the labels inside the EmployeeInfo component */
+  .EmployeeInfo label {
   display: block;
   margin-bottom: 5px;
   font-size: 17px;
   font-weight: bold;
   color: black;
-}
-
-.EmployeeInfo form {
+  }
+  
+  /* Styling for the form inside the EmployeeInfo component */
+  .EmployeeInfo form {
   display: flex;
   flex-direction: column;
   padding: 20px;
-}
-
-.EmployeeInfo input {
+  }
+  
+  /* Styling for the input fields inside the EmployeeInfo component */
+  .EmployeeInfo input {
   width: 100%;
   padding: 10px;
   margin-bottom: 10px;
   box-sizing: border-box;
-}
-
-.EmployeeInfo button[type="submit"] {
+  }
+  
+  /* Styling for the submit button inside the EmployeeInfo component */
+  .EmployeeInfo button[type="submit"] {
   display: block;
   width: 100%;
   padding: 10px;
@@ -80,17 +87,22 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-}
-
-.EmployeeInfo button[type="submit"]:hover {
+  }
+  
+  /* Hover styling for the submit button inside the EmployeeInfo component */
+  .EmployeeInfo button[type="submit"]:hover {
   background-color: rgb(67, 176, 73);
-}
-h1 {
+  }
+  
+  /* Styling for the heading element */
+  h1 {
   font-size: 24px;
   margin-bottom: 20px;
   text-align: center;
-}
-.EmployeeInfo button[type="reset"] {
+  }
+  
+  /* Styling for the reset button inside the EmployeeInfo component */
+  .EmployeeInfo button[type="reset"] {
   display: block;
   width: 100%;
   padding: 10px;
@@ -102,8 +114,9 @@ h1 {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-}
-
-.EmployeeInfo button[type="reset"]:hover {
+  }
+  
+  /* Hover styling for the reset button inside the EmployeeInfo component */
+  .EmployeeInfo button[type="reset"]:hover {
   background-color: rgb(205, 0, 0);
-}
+  }
