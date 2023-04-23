@@ -69,7 +69,6 @@ React has been used widely in the project to build the frontend. The form styles
 
 1. Clone the repo to get all the source code on your machine
 
-
 2. Within the cyberdive-startrek-app2/my-amplify-project/  folder, go to your terminal and run
 
                   npm install
@@ -85,7 +84,6 @@ Alternatively,
 In case the ports specified in the `package.json` are already taken, you will have to say yes to the prompt for running it on a different port. You can continue running it on a different port by typing yes.
 
 5. Access application through the port you just opened!
-
 
 ## How to run tests
 
