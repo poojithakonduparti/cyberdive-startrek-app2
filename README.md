@@ -22,6 +22,7 @@
 
   - [How to run the application 💻](#how-to-run-the-application-locally)
   - [How to run the tests ](#how-to-run-tests)
+----- 
 
 ## Objective
 Build an Employee Information Survey Form using Amplify and React where the employees of Startrek-Flyhigh can easily enter their information to [DynamoDB](https://aws.amazon.com/dynamodb/#:~:text=Amazon%20DynamoDB%20is%20a%20fully,data%20import%20and%20export%20tools.). This app should be able to provide access to creating employee details using [AppSync]
@@ -90,4 +91,3 @@ In case the ports specified in the `package.json` are already taken, you will ha
 Backend testing for the API has been setup, frontend testing has been done through extensive validation checks on the frontend. In order to run the tests, go to your terminal and run the following command
 
                   npm run test
-
