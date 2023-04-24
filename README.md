@@ -37,8 +37,7 @@ The task involves building a decoupled architecture for the Flyhigh-Startrek Emp
 
 
 ## Architecture Diagram
-![Architecture](https://github.com/BigDataIA-Spring2023-Team-08/assignment04-meeting-intelligence-tool/blob/main/architecture%20diagram/whisper_and_chat_api_architecture.png?raw=true)
-
+![Architecture](https://github.com/poojithakonduparti/cyberdive-startrek-app2/blob/amplify/my-amplify-project/images/employee_information_portal_architecture.png?raw=true)
 
 ## Project Components
 
