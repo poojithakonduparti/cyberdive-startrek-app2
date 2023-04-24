@@ -84,7 +84,7 @@ Note: You can ensure that multiple apps can run on different ports simultaneousl
 
 **For Windows users:**
 
-Note: You can ensure that multiple apps can run on different ports simultaneously by going to the `package.json` file in your local and setting the `script` has `react-scripts-start --<your-desired-port>` specified in it.
+Note: You can ensure that multiple apps can run on different ports simultaneously by going to the `package.json` file in your local and setting the `script` has `react-scripts-start --port=<your-desired-port>` specified in it.
 Alternatively,
 In case the ports specified in the `package.json` are already taken, you will have to say yes to the prompt for running it on a different port. You can continue running it on a different port by typing yes.
 
